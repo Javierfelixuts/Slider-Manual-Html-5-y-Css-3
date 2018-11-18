@@ -1,0 +1,7 @@
+
+.icon-left-big:before { content: '\e800'; } /* '' */
+.icon-right-big:before { content: '\e801'; } /* '' */
+.icon-left-open:before { content: '\e802'; } /* '' */
+.icon-right-open-outline:before { content: '\e803'; } /* '' */
+.icon-left-open-outline:before { content: '\e804'; } /* '' */
+.icon-right-open:before { content: '\e805'; } /* '' */
